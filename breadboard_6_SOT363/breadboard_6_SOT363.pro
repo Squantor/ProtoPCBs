@@ -1,4 +1,4 @@
-update=wo 19 jul 2017 22:30:40 CEST
+update=wo 19 jul 2017 22:48:28 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,9 +23,11 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=../SquantorPcbComponentLibrary
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -56,5 +58,6 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-[general]
-version=1
+LibName30=kicad/SquantorProto
+LibName31=kicad/SquantorConnectors
+LibName32=kicad/SquantorNxp
