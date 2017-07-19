@@ -1,0 +1,3 @@
+[submodule "SquantorPcbComponentLibrary"]
+	path = SquantorPcbComponentLibrary
+	url = https://github.com/Squantor/SquantorPcbComponentLibrary.git
